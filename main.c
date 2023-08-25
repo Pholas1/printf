@@ -4,6 +4,7 @@
 
 /**
  * main - Entry point
+ *This file contains the int len, int len2 and unsigned int. 
  *
  * Return: Always 0
  */
